@@ -10,6 +10,7 @@ I made this project for REVA HACK </> 2021, but could not submit it. I know this
 ## Run
 1. Open terminal
 2. Navigate to the folder you Extracted the ZIP file using the `cd` command.
-3. Type `python main.py` in the terminal to run the file. If it doesn't word try `py main.py` or `python3 main.py`.
+3. Type `pip install -r requirements.txt`. This will install the packages needed for the program to run.
+4. Now type `python main.py` in the terminal to run the file. If it doesn't word try `py main.py` or `python3 main.py`.
 
 > **Note:** For the program to detect you face and your eyes, your face should be seen *clear* and *bright* from the web cam.
